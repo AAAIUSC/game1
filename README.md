@@ -2,7 +2,7 @@
 
 1. To send a request to the server, you send a post request to http://www.aaaiusc.com/games/game1.php
 
-..1. First send a post request with your email parameter to add your email to our server. You will get a output where you can parse to get the number of digits
+  1. First send a post request with your email parameter to add your email to our server. You will get a output where you can parse to get the number of digits
 
 ..* curl --data "email=yourEmail@something.com" http://www.aaaiusc.com/games/game1.php
 
