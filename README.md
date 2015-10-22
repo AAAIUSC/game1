@@ -21,3 +21,4 @@
   * Winners will have a higher seeding for the next game and will have a better opportunity for prizes.
 
   * Check the python script for sample code
+  * http://aaaiusc.com/games/aaaiGame1Demo.py
