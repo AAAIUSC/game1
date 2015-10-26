@@ -1,4 +1,6 @@
-# Game 1
+<h1 align="center">
+  Game 1
+</h1>
 
 1. To send a request to the server, you send a post request to http://www.aaaiusc.com/games/game1.php
 
