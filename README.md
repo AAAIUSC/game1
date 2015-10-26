@@ -17,12 +17,19 @@
   2. Invalid comparisons will result an error output rather than something in the form (a,b). Each time you guess exactly correctly, you will get a new number associated with your email in your database. That will output a different number of digits.
 
 3. Based on the number of guesses you guessed, you will get a score. The more guesses you needed before you guessed correctly, the higher your score. The lower your score, the better.
+  
+  * Tiebreakers
+    1. Lowest score
+    2. Biggest Number of Terms for that score
+    3. Number of times the mininum score has been reached for that many terms
+    4. Number of times the mininum score has been reached for any terms(6,7,8)
+    5. Best score in a 5 minute tiebreaker round.
 
   * Winners will have a higher seeding for the next game and prizes in the form of starbucks gift cards.
     1. 1st gets 50 dollar gift card
     2. 2nd gets 25 dollar gift card
     3. 3rd gets 10 dollar gift card
     4. Lucky submitter who stays until the end gets 10 dollar gift card
-
+  
   * Check the python script for sample code
-  * http://aaaiusc.com/games/aaaiGame1Demo.py
+    * http://aaaiusc.com/games/aaaiGame1Demo.py
