@@ -18,7 +18,11 @@
 
 3. Based on the number of guesses you guessed, you will get a score. The more guesses you needed before you guessed correctly, the higher your score. The lower your score, the better.
 
-  * Winners will have a higher seeding for the next game and will have a better opportunity for prizes.
+  * Winners will have a higher seeding for the next game and prizes in the form of starbucks gift cards.
+    1. 1st gets 50 dollar gift card
+    2. 2nd gets 25 dollar gift card
+    3. 3rd gets 10 dollar gift card
+    4. Lucky submitter who stays until the end gets 10 dollar gift card
 
   * Check the python script for sample code
   * http://aaaiusc.com/games/aaaiGame1Demo.py
